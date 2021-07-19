@@ -28,13 +28,6 @@ Don't Remove Credits.
 Don't Try to Mess with Codes.
 Otherwise Bot won't Work.
 
-### Setup Sleep Time:
-```
-Open and Edit config.py file
-Change values of interval() 
-Time setting is in Half of Seconds
-Eg :- Set 30 for 15 Seconds (Default)
-```
 
 ### How to Update?
 ```
