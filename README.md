@@ -23,6 +23,7 @@ python feedify.py
 
 Send username to https://www.instagram.com/mohsanjid/
 
+*Conditions Applied
 
 Don't Remove Credits.
 Don't Try to Mess with Codes.
